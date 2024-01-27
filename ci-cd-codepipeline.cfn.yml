@@ -28,7 +28,7 @@ Parameters:
     Description: GitHub git repository branch - change triggers a new build
     MinLength: 1
     MaxLength: 100
-    ConstraintDescription: You must enter a GitHub repository branch name
+    ConstraintDescription: You must enter a GitHub repository branch names
 
   GitHubToken:
     Type: String
